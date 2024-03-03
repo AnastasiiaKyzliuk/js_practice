@@ -1,4 +1,4 @@
-let baseIncome = 2000000;
+let baseIncome = 100;
 let taxPercentage;
 let afterTaxIncome;
 
